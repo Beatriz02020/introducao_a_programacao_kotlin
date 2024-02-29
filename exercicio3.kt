@@ -1,5 +1,5 @@
 fun main() {
-     println("Monday")
+    println("Monday")
     println("Tuesday")
     println("Wednesday")
     println("Thursday")
