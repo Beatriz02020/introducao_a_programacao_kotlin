@@ -1,7 +1,7 @@
 fun main() {
+     println("Monday")
     println("Tuesday")
-    println("Thursday")
     println("Wednesday")
+    println("Thursday")
     println("Friday")
-    println("Monday")
 }
